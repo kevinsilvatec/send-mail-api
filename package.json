@@ -1,0 +1,23 @@
+{
+  "name": "send-mail-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "routes.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.8",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://tup02git001/kevinsilvamundiale/send-mail-api.git"
+  },
+  "author": "Kevin Silva",
+  "license": "ISC"
+}
